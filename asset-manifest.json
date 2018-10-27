@@ -1,0 +1,14 @@
+{
+  "main.css": "/weather-finder/static/css/main.b9bc4077.chunk.css",
+  "main.js": "/weather-finder/static/js/main.1d7ea956.chunk.js",
+  "main.js.map": "/weather-finder/static/js/main.1d7ea956.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/weather-finder/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/weather-finder/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/weather-finder/static/js/runtime~main.31cd7c94.js",
+  "runtime~main.js.map": "/weather-finder/static/js/runtime~main.31cd7c94.js.map",
+  "static/media/logo.svg": "/weather-finder/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b9bc4077.chunk.css.map": "/weather-finder/static/css/main.b9bc4077.chunk.css.map",
+  "index.html": "/weather-finder/index.html",
+  "precache-manifest.d08d6d7e7673f6ed89c020da0c3b6ce4.js": "/weather-finder/precache-manifest.d08d6d7e7673f6ed89c020da0c3b6ce4.js",
+  "service-worker.js": "/weather-finder/service-worker.js"
+}
