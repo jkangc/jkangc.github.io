@@ -45,9 +45,7 @@ class App extends React.Component {
             description: responseData.weather[0].description,
             error: ""
           });
-        } else {
-          
-        }
+        } 
       })
       .catch(error => {
         console.log('Error fetching and parsing data', error);
